@@ -1,0 +1,40 @@
+body {
+  background: #ecf0f1;
+}
+
+.window {
+  width: 50%;
+  margin: 0 auto;
+  border-top: 25px solid #b4b4b4;
+  border-radius: 10px;
+  padding: 2%;
+  padding-bottom: 100px;
+}
+
+.sublime {
+  list-style: none;
+  background: #262728;
+  color: #f1f1f1;
+  font-family: Menlo;
+  font-weight: 200;
+}
+.sublime li {
+  height: 25px;
+  line-height: 25px;
+}
+.sublime .tab {
+  margin-left: 2%;
+  list-style: none;
+}
+.sublime .red {
+  color: #EB5E5B;
+}
+.sublime .blue {
+  color: #5695BF;
+}
+.sublime .green {
+  color: #5AE897;
+}
+.sublime .yellow {
+  color: #F1D35C;
+}
